@@ -1,0 +1,6 @@
+{
+  "name": "Ahtasham Portfolio",
+  "description": "A portfolio website showcasing web development projects including hotel, restaurant, school, e-commerce, gym, and car showroom websites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
